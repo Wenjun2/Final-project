@@ -20,6 +20,7 @@ def WinBoard():
     center.draw(win)
     center.setFill('black')
 
+
 def Click():
     p1=win.getMouse()
     x1=p1.getX()
